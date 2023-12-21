@@ -2,7 +2,7 @@
 
 ## Live Site URL:
 
--
+- https://molnarkg7.github.io/js-pricing-component-with-toggle/
 
 ## Build With
 
